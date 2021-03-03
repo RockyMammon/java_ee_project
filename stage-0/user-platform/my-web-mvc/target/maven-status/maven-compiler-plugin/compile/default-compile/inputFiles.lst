@@ -1,8 +1,8 @@
-D:\workspace\geekbang-lessons\projects\stage-0\user-platform\my-web-mvc\src\main\java\org\geektimes\web\mvc\controller\Controller.java
-D:\workspace\geekbang-lessons\projects\stage-0\user-platform\my-web-mvc\src\main\java\org\geektimes\web\mvc\header\CacheControlHeaderWriter.java
-D:\workspace\geekbang-lessons\projects\stage-0\user-platform\my-web-mvc\src\main\java\org\geektimes\web\mvc\header\annotation\CacheControl.java
-D:\workspace\geekbang-lessons\projects\stage-0\user-platform\my-web-mvc\src\main\java\org\geektimes\web\mvc\controller\RestController.java
-D:\workspace\geekbang-lessons\projects\stage-0\user-platform\my-web-mvc\src\main\java\org\geektimes\web\mvc\controller\PageController.java
-D:\workspace\geekbang-lessons\projects\stage-0\user-platform\my-web-mvc\src\main\java\org\geektimes\web\mvc\HandlerMethodInfo.java
-D:\workspace\geekbang-lessons\projects\stage-0\user-platform\my-web-mvc\src\main\java\org\geektimes\web\mvc\header\HeaderWriter.java
-D:\workspace\geekbang-lessons\projects\stage-0\user-platform\my-web-mvc\src\main\java\org\geektimes\web\mvc\FrontControllerServlet.java
+D:\workspace\java_ee_project\stage-0\user-platform\my-web-mvc\src\main\java\org\geektimes\web\mvc\controller\Controller.java
+D:\workspace\java_ee_project\stage-0\user-platform\my-web-mvc\src\main\java\org\geektimes\web\mvc\header\CacheControlHeaderWriter.java
+D:\workspace\java_ee_project\stage-0\user-platform\my-web-mvc\src\main\java\org\geektimes\web\mvc\controller\RestController.java
+D:\workspace\java_ee_project\stage-0\user-platform\my-web-mvc\src\main\java\org\geektimes\web\mvc\header\annotation\CacheControl.java
+D:\workspace\java_ee_project\stage-0\user-platform\my-web-mvc\src\main\java\org\geektimes\web\mvc\HandlerMethodInfo.java
+D:\workspace\java_ee_project\stage-0\user-platform\my-web-mvc\src\main\java\org\geektimes\web\mvc\controller\PageController.java
+D:\workspace\java_ee_project\stage-0\user-platform\my-web-mvc\src\main\java\org\geektimes\web\mvc\header\HeaderWriter.java
+D:\workspace\java_ee_project\stage-0\user-platform\my-web-mvc\src\main\java\org\geektimes\web\mvc\FrontControllerServlet.java

@@ -13,7 +13,7 @@ public interface UserService {
      * @param user 用户对象
      * @return 成功返回<code>true</code>
      */
-    boolean register(User user);
+    boolean register(User user)throws Exception;
 
     /**
      * 注销用户
@@ -21,7 +21,7 @@ public interface UserService {
      * @param user 用户对象
      * @return 成功返回<code>true</code>
      */
-    boolean deregister(User user);
+   // boolean deregister(User user);
 
     /**
      * 更新用户信息
@@ -29,9 +29,9 @@ public interface UserService {
      * @param user 用户对象
      * @return
      */
-    boolean update(User user);
+    //boolean update(User user);
 
-    User queryUserById(Long id);
+    //User queryUserById(Long id);
 
-    User queryUserByNameAndPassword(String name, String password);
+    //User queryUserByNameAndPassword(String name, String password);
 }
